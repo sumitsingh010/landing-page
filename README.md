@@ -13,12 +13,7 @@ A responsive and animated landing page created using HTML, CSS, and JavaScript.
 
 ## How to Run
 
-1. Clone this repo:
-   ```
-   git clone https://github.com/yourusername/landing-page.git
-   cd landing-page
-   ```
-2. Open `index.html` in your browser.
+Open `index.html` in your browser.
 
 ## Author
 
