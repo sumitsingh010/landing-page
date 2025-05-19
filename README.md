@@ -12,8 +12,12 @@ A responsive and animated landing page created using HTML, CSS, and JavaScript.
 - Optimized fonts, colors, and spacing for better UX
 
 ## How to Run
-
-Open `index.html` in your browser.
+1. Clone this repo:
+   ```
+   git clone https://github.com/sumitsingh010/landing-page.git
+   cd landing-page
+   ```
+2. Open `index.html` in your browser.
 
 ## Author
 
